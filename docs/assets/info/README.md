@@ -1,4 +1,4 @@
-| 项目          | ESP32-S3-WROOM-N16R8      | M1(K210)                 | M1s(BL808)                                       | R128-S3 Module                         | R128-S2 Module           |
+| 项目          | ESP32-S3-N16R8      | M1(K210)                 | M1s(BL808)                                       | R128-S3 Module                         | R128-S2 Module           |
 |-------------|---------------------------|--------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
 | CPU         | Xtensa LX7@240MHz x2      | RV64@400MHz x2           | RV64GCV@480MHz<br />RV32GCP@320MHz<br />RV32EMC@160MHz | RV64GCV@600MHz<br />Arm Cortex-M33 @240MHz<br />HiFi5 Audio DSP Xtensa LX7@400MHz | RV64GCV@600MHz<br />Arm Cortex-M33 @240MHz<br />HiFi5 Audio DSP Xtensa LX7@400MHz |
 | RAM         | 512KB SRAM + 8MB PSRAM | 8MB SRAM                 | 768KB SRAM + 64MB UHS PSRAM(2000MHz)         | 1MB SRAM + 8M LS_PSRAM + 32M HS_PSRAM | 1MB SRAM + 8M LS_PSRAM + 8M HS_PSRAM |
