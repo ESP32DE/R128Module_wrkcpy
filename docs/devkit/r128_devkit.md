@@ -6,7 +6,7 @@
 
 ![image-20230905092423467](assets/post/r128_devkit/image-20230905092423467.png)
 
-- 板载 R128-S2-WROOM-N16R16 模组
+- 板载 R128-S2-N16R16 模组
 - 板载 2.4G RF 陶瓷天线
 - 板载 USB Type C OTG
 - 板载 UART 转 USB 芯片
